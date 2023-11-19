@@ -38,7 +38,7 @@ const ChatButton = () => {
           <Box >
             <chakra.iframe
               title="Chat"
-              src="http://localhost:5173/channel/webchannel/c20eac00a76649798a4369c72db954a6"
+              src="https://chat.pnclique.com/web_chat/f8fcfddb467a4d2c8696c146591bcd15"
               width="30rem"
               height="40rem"
               rounded="5px"
